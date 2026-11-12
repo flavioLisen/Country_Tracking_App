@@ -1,0 +1,7 @@
+.userHeader {
+    display: inline-flex;
+}
+
+.userHeader input {
+    margin-bottom: 0
+}
